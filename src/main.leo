@@ -1,5 +1,5 @@
-// The 'ankaratoken' program.
-program ankaratokenworkshopBBBakir.aleo {
+// The 'burakbakirtoken2023' program.
+program burakbakirtoken2023.aleo {
 
     mapping account:address => u64;
 
